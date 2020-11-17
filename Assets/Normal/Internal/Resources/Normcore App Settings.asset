@@ -9,9 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 20553fac56ec59645857c0732b787431, type: 3}
-  m_Name: OVRBuildConfig
+  m_Script: {fileID: 1488926636, guid: 30f4fd177e1fad742be136a8237ab587, type: 3}
+  m_Name: Normcore App Settings
   m_EditorClassIdentifier: 
-  androidSDKPath: C:\Program Files\Unity\Hub\Editor\2019.4.13f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK
-  gradlePath: 
-  jdkPath: 
+  _normcoreAppKey: 6794a15e-7ba5-483e-affb-a0f42e59dbac
+  _matcherURL: wss://normcore-matcher.normcore.io:3000
